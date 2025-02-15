@@ -1,0 +1,16 @@
+{
+    "entry": "KeepInventory.js",
+    "name": "KeepInventory",
+    "type": "lse-quickjs",
+    "version": "1.0.0",
+    "author": "virgil698",
+    "description": "普通的死亡不掉落系统",
+    "extraInfo": {
+        "description": "用于保持死亡不掉落开启"
+    },
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}
